@@ -1,0 +1,16 @@
+{
+  "name": "time-utils",
+  "version": "0.0.1",
+  "description": "setTimeout for coffeescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "https://github.com/zweifisch/time-utils.git",
+  "keywords": [
+    "timer",
+    "settimeout"
+  ],
+  "author": "zf",
+  "license": "BSD"
+}
